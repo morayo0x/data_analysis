@@ -1,3 +1,5 @@
 Data Analysis with Pandas.pdf
 datasets/
 pandas_tutorial/
+*.csv
+*.json
