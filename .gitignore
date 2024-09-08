@@ -3,4 +3,5 @@ datasets/
 pandas_tutorial/
 *.csv
 *.json
+*.xlsx
 employee_NULL_w-o_header_to_binary
